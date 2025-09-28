@@ -1,3 +1,229 @@
+## 模型列表
+
+```json
+{
+    "object": "list",
+    "data": [
+        {
+            "created": 1758952608,
+            "id": "kimi-thinking-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "kimi-latest",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-32k-vision-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-128k",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-auto",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "kimi-k2-turbo-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "kimi-k2-0905-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-32k",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "kimi-k2-0711-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-128k-vision-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-8k-vision-preview",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        },
+        {
+            "created": 1758952608,
+            "id": "moonshot-v1-8k",
+            "object": "model",
+            "owned_by": "moonshot",
+            "permission": [
+                {
+                    "created": 0,
+                    "id": "",
+                    "object": "",
+                    "organization": "moonshot",
+                    "group": "moonshot",
+                    "is_blocking": false
+                }
+            ],
+            "root": "",
+            "parent": ""
+        }
+    ]
+}
+```
+
 ## 域名
 
 kimi.com（主产品站，国内备案）
